@@ -8,6 +8,8 @@ public class Maths {
 		int d=a*b;
 
 		int e=a-b;
+		
+		int f = a/b;
 
 		return c;
 	}
